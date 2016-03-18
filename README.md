@@ -1,0 +1,1 @@
+Masan Nutri-Science(MNS) Survey Report app for manager and director.
